@@ -31,8 +31,6 @@ Teplotni čidlo LM335 je analogové čsidlo s lineární charakteristikou $10mV$
 
 ## Záznam na SD karu
 
-
-
 ## Sběrnice I2C
 
 Dvou-linkévá sběrnice.
